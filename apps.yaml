@@ -2038,3 +2038,51 @@ org.onosproject.protocols.xmpp.pubsub:
     2.0.0:
       oar: http://repo1.maven.org/maven2/org/onosproject/onos-protocols-xmpp-pubsub-oar/2.0.0/onos-protocols-xmpp-pubsub-oar-2.0.0.oar
       onos: 2.0.0
+eu.ngpaas.pm:
+  category: Policy Framework
+  title: Policy Manager
+  origin: ONOS Community/NGPaaS-eu-project
+  url: http://ngpaas.eu
+  maintainer: NGPaaS
+  repo: https://github.com/sdnpdtu/NPFManager
+  readme: https://github.com/sdnpdtu/NPFManager/README.md
+  versions:
+    1.0.0:
+      oar: https://github.com/sdnpdtu/NPFManager/blob/master/ngpaas-pm-rest/target/ngpaas-pm-rest-1.0-SNAPSHOT.oar
+      onos: 1.15.0
+eu.ngpaas.nat:
+  category: Policy Framework
+  title: NAT policy
+  origin: ONOS Community/NGPaaS-eu-project
+  url: http://ngpaas.eu
+  maintainer: NGPaaS
+  repo: https://github.com/sdnpdtu/NPF_PT_Nat
+  readme: https://github.com/sdnpdtu/NPF_PT_Nat/README.md
+  versions:
+    1.0.0:
+      oar: https://github.com/sdnpdtu/NPF_PT_Nat/blob/master/target/ngpaas-natpolicy-1.0-SNAPSHOT.oar
+      onos: 1.15.0
+eu.ngpaas.fw:
+  category: Policy Framework
+  title: Firewall policy
+  origin: ONOS Community/NGPaaS-eu-project
+  url: http://ngpaas.eu
+  maintainer: NGPaaS
+  repo: https://github.com/sdnpdtu/NPF_PT_Firewall
+  readme: https://github.com/sdnpdtu/NPF_PT_Firewall/README.md
+  versions:
+    1.0.0:
+      oar: https://github.com/sdnpdtu/NPF_PT_Firewall/blob/master/target/ngpaas-firewallpolicy-1.0-SNAPSHOT.oar
+      onos: 1.15.0
+eu.ngpaas.conn:
+  category: Policy Framework
+  title: Connectivity policy
+  origin: ONOS Community/NGPaaS-eu-project
+  url: http://ngpaas.eu
+  maintainer: NGPaaS
+  repo: https://github.com/sdnpdtu/NPF_PT_Connectivity
+  readme: https://github.com/sdnpdtu/NPF_PT_Connectivity/README.md
+  versions:
+    1.0.0:
+      oar: https://github.com/sdnpdtu/NPF_PT_Connectivity/blob/master/target/ngpaas-connectivitypolicy-1.0-SNAPSHOT.oar
+      onos: 1.15.0
